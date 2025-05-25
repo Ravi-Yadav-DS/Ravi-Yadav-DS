@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Ravi Yadav
+# 👋 Hello, I'm Ravi
 
 🎓 **M.Sc. Data Science Student** &nbsp;|&nbsp; 🐍 Python Developer &nbsp;|&nbsp; 🚀 Machine Learning Enthusiast
 
