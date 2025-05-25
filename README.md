@@ -29,6 +29,11 @@ Transitioning from DBA to Data Scientist, I am committed to transforming complex
 
 ---
 
+## 📊 Stats & Activity
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravi-Yadav-DS&layout=compact&theme=tokyonight)
+---
+
 ## 🏁 Fun Fact
 
 When I'm not immersed in data, you’ll find me following the thrills of Formula 1 racing.
